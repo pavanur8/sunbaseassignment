@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#upload-section, #chat-section {
+    margin: 20px;
+}
+
+#userInput, #response {
+    width: 100%;
+    height: 100px;
+}
